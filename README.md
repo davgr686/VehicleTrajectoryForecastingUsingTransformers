@@ -10,16 +10,7 @@ the preprocessed datasets used to train and evaluate both the transformer and LS
 
 ### Transformer
 
-#### Requirements to run the Transformer model
-
-- Pytorch 1.0+
-- SKlearn
-- Numpy
-- Scipy
-- Pandas
-- Utm
-
-to train and evaluate the transformer model, follow the instructions in the README file in the folder _Transformer_model_.
+Transformer training and evaluation scripts are found in the Transformer_model folder, follow the instructions in the README file in the folder.
 
 ### LSTM
-LSTM training and evaluation scripts and instructions are found in the LSTM folder.
+LSTM training and evaluation scripts and instructions are found in the README in the LSTM folder.
