@@ -12,11 +12,11 @@
 - Joblib
 - matplotlib
 
-### Train Transformer
+### Train LSTM
 
 Training LSTM Models is done in LSTM_Training.ipynb
 
-### Evaluate Transformer
+### Evaluate LSTM
 
 Evaulate and predict trajectories with Validation_LSTM.ipynb
 
