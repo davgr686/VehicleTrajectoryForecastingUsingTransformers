@@ -20,3 +20,6 @@ the preprocessed datasets used to train and evaluate both the transformer and LS
 - Utm
 
 to train and evaluate the transformer model, follow the instructions in the README file in the folder _Transformer_model_.
+
+### LSTM
+LSTM training and evaluation scripts and instructions are found in the LSTM folder.
